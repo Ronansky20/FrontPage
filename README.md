@@ -34,8 +34,8 @@ Hi i am Ronan Drost, i am a 17 year old junior full stack developer that studies
 <br />
 ### Contact me
 <br />
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/ronan-drost-6958801b6/
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/ronan-drost-6958801b6/
 <br />
-[<img align="left" alt="Dribble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" /> https://dribbble.com/Ronan_Dr
+<img align="left" alt="Dribble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" /> https://dribbble.com/Ronan_Dr
 <br />
 <img align="left" alt="Dribble" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/48/48975.svg" /> https://www.behance.net/ronandrost
